@@ -32,3 +32,11 @@ if (lang === 1) {
 
 ```
 
+### Languages: 
+
+- English
+- Reussian
+- Belarussian
+- Polish 
+- French
+- Chinese
